@@ -1,0 +1,30 @@
+body{
+  font-family: monospace;
+}
+
+.purple_section {
+  color: purple;
+  font-size: 35px;
+  font-family: monospace;
+  : center <!-right, left->
+}
+
+.header{
+  color: blue;
+  font-size: 50px;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.intro{
+  color: black;
+  font-size: 20px;
+  font-family: monospace;
+  text-align: left;
+}
+
+#navigation-bar{
+  color: black;
+  margin-left: 50px;
+  <!-padding10px-->
+}

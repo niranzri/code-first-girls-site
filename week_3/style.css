@@ -1,0 +1,61 @@
+img{
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+body{
+  font-family: sans-serif;
+  margin: 100px;
+}
+
+.black{
+  background-color: black;
+}
+
+.white{
+  color: white;
+}
+
+.margin-pad{
+  margin: 0px;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+.size1{
+  font-size: 14pt;
+}
+
+.size2{
+  font-size: 6pt;
+}
+
+.column{
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.row:after{
+  content:"";
+  display: table;
+  clear: both;
+}
+
+.left{
+  text-align: left;
+}
+
+.center{
+  text-align: center;
+}
+
+.right{
+  text-align: right;
+}
+
+.table{
+  align: center;
+  width: 100%;
+}
